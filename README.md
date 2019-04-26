@@ -6,4 +6,7 @@
 
 ## 발표 목록
 
+- 2019년 4월 19일 김진영. Achieving cost-efficiency of fine-tuned path-sensitive static analyzers through data-driven path selection
 - 2019년 4월 19일 이준영. 포인터<->정수간의 변환을 안전하게 최적화하기
+- 2019년 4월 26일 김현수. 이진 인공 신경망 검증하기
+- 2019년 4월 26일 김동주. CompCert의 메모리 관계
